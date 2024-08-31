@@ -1,0 +1,13 @@
+.centered-input {
+  display: block; /* Make it a block-level element */
+  margin: 0 auto; /* Center the element horizontally */
+  width: 50%; /* Adjust width as needed */
+}html {
+  height: 100%;
+  width: 100%;
+}
+
+#input {
+  width: 400px;
+  height: 120px;
+}
