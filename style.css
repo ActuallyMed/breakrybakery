@@ -1,0 +1,19 @@
+.centered-input {
+  display: block; 
+  margin: 0 auto; 
+  width: 100%; 
+}
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+#input {
+  width: 400px;
+  height: 120px;
+}
+
+p {
+  font-family: 'Pixelify Sans', sans-serif;
+}
