@@ -17,3 +17,8 @@ html {
 p {
   font-family: 'Pixelify Sans', sans-serif;
 }
+
+h6 {
+  font-family: 'Pixelify Sans', sans-serif;
+  text-align: center;
+}
